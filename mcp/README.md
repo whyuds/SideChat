@@ -1,8 +1,6 @@
 # VSCode SideChat CLI & MCP Server
 
 Working with SideChat extension for Cursor, TraeAI, VSCode and other editors, allowing AI to maintain communication with users throughout the code generation process
-## Preview
-![SideChat.gif](../img/SideChat.gif)
 
 ## Extension Usage
 Search for "SideChat" in the VSCode Extensions Marketplace. 

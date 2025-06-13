@@ -57,7 +57,7 @@ class MCPServer {
         if (name === 'send_notification') {
             try {
                 const options = {
-                    title: 'AI Notification',
+                    title: 'SideChat',
                     message: args.message,
                     buttons: ['Continue', 'Reply'],
                     timeout: 300000 // 5 minutes
