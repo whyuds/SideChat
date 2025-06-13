@@ -2,6 +2,9 @@
 
 Working with SideChat extension for Cursor, TraeAI, VSCode and other editors, allowing AI to maintain communication with users throughout the code generation process
 
+## Preview
+![SideChat.gif](SideChat.gif)
+
 ## Extension Usage
 Search for "SideChat" in the VSCode Extensions Marketplace. 
 Or download it from here:https://github.com/whyuds/SideChat/releases
