@@ -4,7 +4,7 @@
   "description": "A side panel chat extension for VSCode, TraeAI, Cursor and other AI code editors, enabling continuous communication with users during code generation process.",
   "version": "0.0.1",
   "publisher": "whyuds",
-  "icon": "icon/logo_256.png",
+  "icon": "img/logo_256.png",
   "engines": {
     "vscode": "^1.74.0"
   },
