@@ -1,0 +1,35 @@
+{
+  "name": "notify-mcp",
+  "version": "0.0.9",
+  "description": "Command line tool and MCP server for AI (Cursor,TraeAI,VSCode...) notifications",
+  "main": "notify.js",
+  "bin": {
+    "notify": "./notify.js",
+    "notify-mcp": "./mcp-server.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "keywords": [
+    "vscode",
+    "cursor",
+    "trae",
+    "mcp",
+    "model-context-protocol",
+    "ai-assistant",
+    "extension"
+  ],
+  "author": "whyuds",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whyuds/SideChat"
+  },
+  "homepage": "https://github.com/whyuds/SideChat",
+  "bugs": {
+    "url": "https://github.com/whyuds/SideChat/issues"
+  }
+}

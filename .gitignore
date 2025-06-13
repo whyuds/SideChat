@@ -2,7 +2,7 @@ out
 node_modules
 .vscode-test/
 *.vsix
-cli/node_modules
+mcp/node_modules
 .DS_Store
 Thumbs.db
 /.idea

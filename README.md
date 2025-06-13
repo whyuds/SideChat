@@ -2,6 +2,10 @@
 
 A side panel chat extension for VSCode, TraeAI, Cursor and other AI code editors. Configure the corresponding MCPServer to maintain continuous communication with users during a single code generation process.
 
+## Preview
+
+![SideChat.gif](img/SideChat.gif)
+
 ## Installation Steps
 Add the following MCP service configuration to the AI code editor MCP configuration, and enable it in the Agent
 
